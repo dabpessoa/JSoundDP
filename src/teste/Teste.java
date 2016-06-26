@@ -1,4 +1,4 @@
-package me.diegopessoa.sound;
+package teste;
 
 import java.io.BufferedInputStream;
 import java.io.File;
@@ -91,7 +91,7 @@ public class Teste {
 								format.getFrameSize()));
 
 				Clip clip = (Clip) AudioSystem.getLine(info);
-				clip.addLineListener(new MySoundTeste());
+//				clip.addLineListener(new MySoundTeste());
 				clip.open(stream);
 				clipSound = clip;
 			} catch (Exception ex) { 

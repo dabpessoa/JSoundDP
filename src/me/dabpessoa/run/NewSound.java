@@ -1,4 +1,4 @@
-package me.diegopessoa.run;
+package me.dabpessoa.run;
 
 import java.io.File;
 import java.io.IOException;

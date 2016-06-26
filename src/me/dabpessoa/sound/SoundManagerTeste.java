@@ -1,4 +1,4 @@
-package me.diegopessoa.sound;
+package me.dabpessoa.sound;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
