@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package me.diegopessoa.sound;
+package me.dabpessoa.sound;
 
 import java.io.IOException;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package me.diegopessoa.sound;
+package me.dabpessoa.sound;
 
 import java.io.BufferedInputStream;
 import java.io.File;
