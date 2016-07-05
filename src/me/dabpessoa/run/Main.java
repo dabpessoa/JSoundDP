@@ -16,10 +16,10 @@ public class Main {
     	MusicPlayer player = new MusicPlayer();
     	
         Sound sound_1 = SoundManager.loadSound("sounds/sound1.wav");
-        Sound sound_2 = SoundManager.loadSound("sounds/sound2.mp3");
+//        Sound sound_2 = SoundManager.loadSound("sounds/sound2.mp3");
         
         player.addToPlayList("id_1", sound_1);
-        player.addToPlayList("id_2", sound_1);
+//        player.addToPlayList("id_2", sound_1);
         
         
         player.play("id_1");
