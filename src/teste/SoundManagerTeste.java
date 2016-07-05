@@ -1,4 +1,4 @@
-package me.dabpessoa.sound;
+package teste;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
