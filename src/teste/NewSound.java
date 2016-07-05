@@ -1,4 +1,4 @@
-package me.dabpessoa.run;
+package teste;
 
 import java.io.File;
 import java.io.IOException;
