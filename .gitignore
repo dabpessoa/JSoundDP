@@ -1,7 +1,13 @@
 target
+build
+out
+bin
+classes
+test-output
 .settings
 .project
 .metadata
-bin
 .classpath
-test-output
+.tern-project
+.idea
+*.iml
